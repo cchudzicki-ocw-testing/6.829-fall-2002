@@ -3,7 +3,12 @@ content_type: resource
 description: 'Lecture 3: Scaling IP for Size and Speed'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/c6d11b486a590e067ee67fb3b284fc0f_L3ScalingIP.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: L3ScalingIP.pdf
+type: OCWFile
 uid: c6d11b48-6a59-0e06-7ee6-7fb3b284fc0f
 ---
