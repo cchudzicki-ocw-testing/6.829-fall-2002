@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L9routercc.pdf
-type: OCWFile
 uid: 75f83882-41d7-920f-744f-27f28230f014
 ---

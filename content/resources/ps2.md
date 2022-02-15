@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: ps2.pdf
-type: OCWFile
 uid: fd18c22d-cf2a-e51f-ab69-a582b943772d
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: faq.pdf
-type: OCWFile
 uid: 2a89f9ef-e262-943f-8c55-50c257a255db
 ---

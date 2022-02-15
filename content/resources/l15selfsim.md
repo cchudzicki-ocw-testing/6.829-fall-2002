@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L15selfsim.pdf
-type: OCWFile
 uid: 058eeb27-4053-0b55-d78a-f170e624e8b7
 ---

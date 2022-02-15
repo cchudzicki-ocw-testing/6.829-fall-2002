@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: T1tools.pdf
-type: OCWFile
 uid: 688e3638-3646-b0bf-7bf5-6546733a634c
 ---

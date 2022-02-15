@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L17overlay.pdf
-type: OCWFile
 uid: e1643f15-69e7-e26c-b5d8-4b0cac924c35
 ---

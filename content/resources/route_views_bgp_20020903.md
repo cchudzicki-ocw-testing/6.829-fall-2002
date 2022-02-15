@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: route_views_bgp_20020903.gz
-type: OCWFile
 uid: e965df83-a1a3-fdea-a6b0-f2349b866ac2
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L4UnicastRtg.pdf
-type: OCWFile
 uid: 479e67f0-3ae6-82ec-5886-7664687a926e
 ---

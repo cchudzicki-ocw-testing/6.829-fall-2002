@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L3ScalingIP.pdf
-type: OCWFile
 uid: c6d11b48-6a59-0e06-7ee6-7fb3b284fc0f
 ---

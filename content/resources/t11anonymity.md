@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: T11anonymity.pdf
-type: OCWFile
 uid: 95a06953-55db-afca-7f01-4e364866af12
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: 20001206_byte_summary.gz
-type: OCWFile
 uid: 8a40070e-c5d6-fd48-36cd-5e082ecae253
 ---

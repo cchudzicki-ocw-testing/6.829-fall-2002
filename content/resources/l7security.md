@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L7Security.pdf
-type: OCWFile
 uid: b6082aa6-d5f2-d006-5220-67a4be4d36d8
 ---

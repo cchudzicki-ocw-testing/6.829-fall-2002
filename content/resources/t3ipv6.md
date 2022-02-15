@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: T3IPv6.pdf
-type: OCWFile
 uid: b86103fb-045f-7199-f9ec-3a73fe01fa93
 ---

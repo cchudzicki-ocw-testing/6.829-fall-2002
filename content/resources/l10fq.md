@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L10fq.pdf
-type: OCWFile
 uid: f0edd242-8668-4dd4-ab55-caed1e1eab17
 ---

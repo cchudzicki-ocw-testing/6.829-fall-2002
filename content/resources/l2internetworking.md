@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L2Internetworking.pdf
-type: OCWFile
 uid: d81a62b0-dc0e-daed-ed4c-1529e596d7f7
 ---
