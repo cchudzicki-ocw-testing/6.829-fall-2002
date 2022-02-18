@@ -16,7 +16,7 @@ Background (will not be explicitly discussed in class)
 
 Ethernet paper.
 
-**\[L0\]** Balakrishnan, H. "Single-link Communication." 6.829 Computer Networks Lecture Notes, Fall 2002. (Read this before or soon after first lecture.) ([PDF]({{< baseurl >}}/resources/l0singlelink))
+**\[L0\]** Balakrishnan, H. "Single-link Communication." 6.829 Computer Networks Lecture Notes, Fall 2002. (Read this before or soon after first lecture.) ({{< resource_link f3e7d4d9-bee7-f8d9-9ad0-d4b3cbae3e55 "PDF" >}})
 
 Assigned Readings (by Topic Area)
 ---------------------------------
@@ -35,7 +35,7 @@ Assigned Readings (by Topic Area)
 
 **\[BCDP97\]** Brodnik, A., S. Carlsson, M. Degermark, and S. Pink. "[Small Forwarding Tables for Fast Routing Lookups](http://www.acm.org/sigcomm/sigcomm97/papers/p192.html)." _Proc [ACM SIGCOMM](http://www.acm.org/sigcomm/)_ (September [1997](http://www.acm.org/sigcomm/sigcomm97/)). Cannes, France.
 
-**\[L4\]** Balakrishnan, H. "Wide-area Unicast Routing." 6.829 Computer Networks Lecture Notes, Fall 2002. ([PDF]({{< baseurl >}}/resources/l4unicastrtg))
+**\[L4\]** Balakrishnan, H. "Wide-area Unicast Routing." 6.829 Computer Networks Lecture Notes, Fall 2002. ({{< resource_link 479e67f0-3ae6-82ec-5886-7664687a926e "PDF" >}})
 
 **Internet Routing in-the-Wild (Measurement)**
 
