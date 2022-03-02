@@ -29,7 +29,7 @@ Please feel free to come up with your own ideas, or modify our suggestions in an
     *   A clear statement of your research methodology, i.e., how are you going to solve the problems you have raised and motivated in the previous paragraph?  
           
          
-    *   A statement of plan and schedule, to convince us (and yourself!) that you can complete this by the end of the term (exact due dates are {{< resource_link 75315fd5-1f0f-93d2-b026-f4068f7f35bf "here" >}}).  
+    *   A statement of plan and schedule, to convince us (and yourself!) that you can complete this by the end of the term (exact due dates are {{% resource_link 75315fd5-1f0f-93d2-b026-f4068f7f35bf "here" %}}).  
           
          
     *   A list of resources you need to accomplish your work, with special emphasis on important pieces you don't yet have access to. Be as clear as you can in your requirements and we will work towards getting what you need as quickly as possible. If your request can't be accommodated for any reason, we will try to get back to you about it as soon as we find out.  
@@ -38,7 +38,7 @@ Please feel free to come up with your own ideas, or modify our suggestions in an
     *   Any other questions you have or clarifications you need from us.  
           
          
-4.  **Background**: In a one-semester class, one can only cover a fraction of networking topics, and there are sure to be projects where the background material won't be covered in too much detail. And even for topics that we do cover, there will almost certainly be other relevant related work that you should be familiar with. Part of doing something new is figuring out what's already been done or is known, so you should search the related literature and Web pages as extensively as you can. Keep an eye out for useful software or research methodology or tools that you can leverage; this will save you tremendous amounts of time later in the term. You might find some of the course links in the {{< resource_link 6f4ed290-8019-9652-bdbc-1d2a640e9ecf "related resources" >}} section actually useful.  
+4.  **Background**: In a one-semester class, one can only cover a fraction of networking topics, and there are sure to be projects where the background material won't be covered in too much detail. And even for topics that we do cover, there will almost certainly be other relevant related work that you should be familiar with. Part of doing something new is figuring out what's already been done or is known, so you should search the related literature and Web pages as extensively as you can. Keep an eye out for useful software or research methodology or tools that you can leverage; this will save you tremendous amounts of time later in the term. You might find some of the course links in the {{% resource_link 6f4ed290-8019-9652-bdbc-1d2a640e9ecf "related resources" %}} section actually useful.  
       
      
 5.  **Standards**: **Aim high in a focused way, and do the best you can!** The best projects are sure to be publishable (as they have in past years) in top ACM or IEEE conferences in the area, such as SIGCOMM, INFOCOM, or MOBICOM, or appear as articles in journals like SIGCOMM's Computer Communications Review (CCR). I have a strong feeling that you will far surpass my already high expectations with wonderful work that will further the state-of-the-art in network research.

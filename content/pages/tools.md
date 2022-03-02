@@ -26,7 +26,7 @@ Useful ns Links
     (Almost everything you need to know about ns can be accessed from this site.)
 *   [On-line Tcl man pages](http://elf.org/etc/tcltk-man-html.html)
 *   [Athena on-line help](http://ist.mit.edu/software/athena/helpinfo)
-*   6.829 ns tutorial slides ({{< resource_link 44b429c8-e147-7cb2-f322-dc156b5a0f41 "PDF" >}})
+*   6.829 ns tutorial slides ({{% resource_link 44b429c8-e147-7cb2-f322-dc156b5a0f41 "PDF" %}})
     *   1 minute TCL tutorial — 1.tcl ([TCL](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/tools/1.tcl))
     *   1 minute oTCL tutorial — 2.tcl ([TCL](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/tools/2.tcl))
     *   ns 1: Creating Topology — 3.tcl ([TCL](/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/tools/3.tcl))

@@ -41,9 +41,9 @@ OPTIONAL READINGS; REMARKS
 L1
 {{< tdclose >}}
 {{< tdopen >}}
-L0 for background ({{< resource_link f3e7d4d9-bee7-f8d9-9ad0-d4b3cbae3e55 "PDF" >}})  
+L0 for background ({{% resource_link f3e7d4d9-bee7-f8d9-9ad0-d4b3cbae3e55 "PDF" %}})  
 **Part I: Internetworking and Routing**  
-Packet Switching ({{< resource_link 35485a0e-cba2-d903-8ceb-9467c0517054 "PDF" >}})  
+Packet Switching ({{% resource_link 35485a0e-cba2-d903-8ceb-9467c0517054 "PDF" %}})  
 A Simple Network
 {{< tdclose >}}
 {{< tdopen >}}
@@ -59,7 +59,7 @@ L0 for background
 L2
 {{< tdclose >}}
 {{< tdopen >}}
-The Internetworking Problem ({{< resource_link d81a62b0-dc0e-daed-ed4c-1529e596d7f7 "PDF" >}})  
+The Internetworking Problem ({{% resource_link d81a62b0-dc0e-daed-ed4c-1529e596d7f7 "PDF" %}})  
 The IP/TCP Split  
 Connections  
 Scaling IP
@@ -77,7 +77,7 @@ CK74, Cla88
 L3
 {{< tdclose >}}
 {{< tdopen >}}
-Scaling IP (cont.) ({{< resource_link c6d11b48-6a59-0e06-7ee6-7fb3b284fc0f "PDF" >}})  
+Scaling IP (cont.) ({{% resource_link c6d11b48-6a59-0e06-7ee6-7fb3b284fc0f "PDF" %}})  
 Routers: Forwarding and Routing  
 The IP Forwarding Path
 {{< tdclose >}}
@@ -94,7 +94,7 @@ Hin96, BCDP97
 T1
 {{< tdclose >}}
 {{< tdopen >}}
-**Tutorial on useful tools** ({{< resource_link 688e3638-3646-b0bf-7bf5-6546733a634c "PDF" >}})
+**Tutorial on useful tools** ({{% resource_link 688e3638-3646-b0bf-7bf5-6546733a634c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -109,7 +109,7 @@ T1
 L4
 {{< tdclose >}}
 {{< tdopen >}}
-Unicast Internet Routing: Intra- and Inter-Domain Routing ({{< resource_link 479e67f0-3ae6-82ec-5886-7664687a926e "PDF" >}})  
+Unicast Internet Routing: Intra- and Inter-Domain Routing ({{% resource_link 479e67f0-3ae6-82ec-5886-7664687a926e "PDF" %}})  
 **Project suggestions handed out; proposals due 1 day after T3**
 {{< tdclose >}}
 {{< tdopen >}}
@@ -140,7 +140,7 @@ Pax97
 T2
 {{< tdclose >}}
 {{< tdopen >}}
-**Intro to the ns2 Network Simulator** ({{< resource_link 44b429c8-e147-7cb2-f322-dc156b5a0f41 "PDF" >}})
+**Intro to the ns2 Network Simulator** ({{% resource_link 44b429c8-e147-7cb2-f322-dc156b5a0f41 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -171,7 +171,7 @@ L7
 \[Lecturer: Nick Feamster\]
 {{< tdclose >}}
 {{< tdopen >}}
-Security Problems with the Internet Architecture ({{< resource_link b6082aa6-d5f2-d006-5220-67a4be4d36d8 "PDF" >}})
+Security Problems with the Internet Architecture ({{% resource_link b6082aa6-d5f2-d006-5220-67a4be4d36d8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Bel89, Sno+01
@@ -186,7 +186,7 @@ IPSec (RFC1825)
 T3
 {{< tdclose >}}
 {{< tdopen >}}
-**Tutorial on IPv6** ({{< resource_link b86103fb-045f-7199-f9ec-3a73fe01fa93 "PDF" >}})
+**Tutorial on IPv6** ({{% resource_link b86103fb-045f-7199-f9ec-3a73fe01fa93 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -217,7 +217,7 @@ L8
 {{< tdclose >}}
 {{< tdopen >}}
 **Part II: Resource Management  
-**End-to-End Congestion Control ({{< resource_link 65235419-4b22-31bc-0448-8232729760cd "PDF" >}})
+**End-to-End Congestion Control ({{% resource_link 65235419-4b22-31bc-0448-8232729760cd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 JK88, CJ89
@@ -232,7 +232,7 @@ JK88, CJ89
 L9
 {{< tdclose >}}
 {{< tdopen >}}
-Router-Assisted Congestion Control: Active Queue Management ({{< resource_link 75f83882-41d7-920f-744f-27f28230f014 "PDF" >}})
+Router-Assisted Congestion Control: Active Queue Management ({{% resource_link 75f83882-41d7-920f-744f-27f28230f014 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 FJ93, KHR02
@@ -247,7 +247,7 @@ FJ93, KHR02
 L10
 {{< tdclose >}}
 {{< tdopen >}}
-Fair Queuing and Variants ({{< resource_link f0edd242-8668-4dd4-ab55-caed1e1eab17 "PDF" >}})
+Fair Queuing and Variants ({{% resource_link f0edd242-8668-4dd4-ab55-caed1e1eab17 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 DKS90, SSZ98
@@ -264,7 +264,7 @@ L11
 {{< tdclose >}}
 {{< tdopen >}}
 Modeling and Measurement-I: Packet Trains  
-Slides ({{< resource_link b3e86d40-a6b7-e54a-5d89-d213b98008bd "PDF" >}})
+Slides ({{% resource_link b3e86d40-a6b7-e54a-5d89-d213b98008bd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 DJ02
@@ -295,8 +295,8 @@ L12
 {{< tdclose >}}
 {{< tdopen >}}
 Adaptive Network Applications  
-Nick's CM slides ({{< resource_link bf537ce3-6f98-c6d6-f154-b755a0007c48 "PDF" >}})  
-Xiaowei's ALF slides ({{< resource_link 203d1b10-b014-3521-e135-1ace9d0e71be "PDF" >}})
+Nick's CM slides ({{% resource_link bf537ce3-6f98-c6d6-f154-b755a0007c48 "PDF" %}})  
+Xiaowei's ALF slides ({{% resource_link 203d1b10-b014-3521-e135-1ace9d0e71be "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 CT90, BSR99
@@ -371,7 +371,7 @@ T7
 L13
 {{< tdclose >}}
 {{< tdopen >}}
-QoS-I: Why QoS; Basic Models and Architecture ({{< resource_link b46c7ba0-a30e-3691-6847-592096bb4107 "PDF" >}})
+QoS-I: Why QoS; Basic Models and Architecture ({{% resource_link b46c7ba0-a30e-3691-6847-592096bb4107 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 She95, CSZ92
@@ -416,7 +416,7 @@ T8
 L15 (Notes from Fall 01)
 {{< tdclose >}}
 {{< tdopen >}}
-Modeling and Measurement-II: Traffic Self-Similarity; Virus Propagation ({{< resource_link 058eeb27-4053-0b55-d78a-f170e624e8b7 "PDF" >}})
+Modeling and Measurement-II: Traffic Self-Similarity; Virus Propagation ({{% resource_link 058eeb27-4053-0b55-d78a-f170e624e8b7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 WGJPS01, SPW02
@@ -463,7 +463,7 @@ T9
 L17 \[Lecturer: Nick Feamster\]
 {{< tdclose >}}
 {{< tdopen >}}
-Routing in Overlay Networks ({{< resource_link e1643f15-69e7-e26c-b5d8-4b0cac924c35 "PDF" >}})
+Routing in Overlay Networks ({{% resource_link e1643f15-69e7-e26c-b5d8-4b0cac924c35 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ABKM01, Sto+02
@@ -478,7 +478,7 @@ ABKM01, Sto+02
 L18
 {{< tdclose >}}
 {{< tdopen >}}
-DNS ({{< resource_link 6821932d-61b7-e835-e3f2-aa38fc7f957f "PDF" >}})  
+DNS ({{% resource_link 6821932d-61b7-e835-e3f2-aa38fc7f957f "PDF" %}})  
 Resource Discovery  
 Other Examples of Lookups  
 **Project write-up (checkpoint) due in class**
@@ -541,7 +541,7 @@ BSK95, IGE00
 T11
 {{< tdclose >}}
 {{< tdopen >}}
-**Anonymity** ({{< resource_link 95a06953-55db-afca-7f01-4e364866af12 "PDF" >}})
+**Anonymity** ({{% resource_link 95a06953-55db-afca-7f01-4e364866af12 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -571,7 +571,7 @@ MS97, Flo+97
 L22
 {{< tdclose >}}
 {{< tdopen >}}
-Multicast (cont.); Scalability and Robustness in Networks ({{< resource_link 8ad6d372-7269-f49f-9f67-8fd823c8957c "PDF" >}})
+Multicast (cont.); Scalability and Robustness in Networks ({{% resource_link 8ad6d372-7269-f49f-9f67-8fd823c8957c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ASSW02
@@ -586,7 +586,7 @@ ASSW02
  
 {{< tdclose >}}
 {{< tdopen >}}
-**{{< resource_link 28a97481-6295-43ec-71e8-774748529f30 "Project Presentations" >}} (2 days after L22)**
+**{{% resource_link 28a97481-6295-43ec-71e8-774748529f30 "Project Presentations" %}} (2 days after L22)**
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -601,7 +601,7 @@ All Day
  
 {{< tdclose >}}
 {{< tdopen >}}
-**{{< resource_link 28a97481-6295-43ec-71e8-774748529f30 "Project Presentations" >}} (3 days after L22)**
+**{{% resource_link 28a97481-6295-43ec-71e8-774748529f30 "Project Presentations" %}} (3 days after L22)**
 {{< tdclose >}}
 {{< tdopen >}}
  
