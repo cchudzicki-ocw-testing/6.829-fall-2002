@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L12cmnick.pdf
 uid: bf537ce3-6f98-c6d6-f154-b755a0007c48
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

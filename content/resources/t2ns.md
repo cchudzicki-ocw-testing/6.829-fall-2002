@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: t2ns.pdf
 uid: 44b429c8-e147-7cb2-f322-dc156b5a0f41
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

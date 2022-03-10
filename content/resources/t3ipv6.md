@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: T3IPv6.pdf
 uid: b86103fb-045f-7199-f9ec-3a73fe01fa93
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L22srm.pdf
 uid: 8ad6d372-7269-f49f-9f67-8fd823c8957c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

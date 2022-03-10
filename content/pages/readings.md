@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 065ed03c-b61c-e97b-68cc-671caa24bb9a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The readings listed on this page are in three parts. First come the background readings. You will find them useful to get up to speed. Then come the assigned readings. Finally, we list several papers as optional readings, for you to learn more about specific topics. The schedule provides hints on when any given optional reading might be useful. All papers are named by shorthand names such as CK74.

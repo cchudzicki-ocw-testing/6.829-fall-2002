@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L1PacketSwitch.pdf
 uid: 35485a0e-cba2-d903-8ceb-9467c0517054
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: T11anonymity.pdf
 uid: 95a06953-55db-afca-7f01-4e364866af12
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

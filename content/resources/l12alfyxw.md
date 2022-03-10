@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L12alfyxw.pdf
 uid: 203d1b10-b014-3521-e135-1ace9d0e71be
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

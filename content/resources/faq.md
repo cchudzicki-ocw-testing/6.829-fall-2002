@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: faq.pdf
 uid: 2a89f9ef-e262-943f-8c55-50c257a255db
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
