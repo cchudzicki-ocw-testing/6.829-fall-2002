@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ps1sols.pdf
 uid: c9d3d586-895c-db2c-7a6a-e4cb6de615a5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

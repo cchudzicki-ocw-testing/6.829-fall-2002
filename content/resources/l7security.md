@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L7Security.pdf
 uid: b6082aa6-d5f2-d006-5220-67a4be4d36d8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

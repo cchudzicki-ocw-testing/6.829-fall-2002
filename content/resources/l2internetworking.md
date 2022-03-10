@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L2Internetworking.pdf
 uid: d81a62b0-dc0e-daed-ed4c-1529e596d7f7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

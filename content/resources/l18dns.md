@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L18dns.pdf
 uid: 6821932d-61b7-e835-e3f2-aa38fc7f957f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

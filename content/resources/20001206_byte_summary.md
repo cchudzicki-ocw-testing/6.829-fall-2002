@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: 20001206_byte_summary.gz
 uid: 8a40070e-c5d6-fd48-36cd-5e082ecae253
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

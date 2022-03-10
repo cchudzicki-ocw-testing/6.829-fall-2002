@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L11slides.pdf
 uid: b3e86d40-a6b7-e54a-5d89-d213b98008bd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

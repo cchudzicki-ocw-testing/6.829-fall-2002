@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L4UnicastRtg.pdf
 uid: 479e67f0-3ae6-82ec-5886-7664687a926e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

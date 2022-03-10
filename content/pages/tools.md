@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Tools
 uid: 5ab800bf-4356-dada-eed2-1cdaf5f84996
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 ns Simulator Information

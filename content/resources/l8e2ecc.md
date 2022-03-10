@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L8e2ecc.pdf
 uid: 65235419-4b22-31bc-0448-8232729760cd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

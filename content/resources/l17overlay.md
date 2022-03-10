@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L17overlay.pdf
 uid: e1643f15-69e7-e26c-b5d8-4b0cac924c35
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

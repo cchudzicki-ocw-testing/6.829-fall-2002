@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L10fq.pdf
 uid: f0edd242-8668-4dd4-ab55-caed1e1eab17
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

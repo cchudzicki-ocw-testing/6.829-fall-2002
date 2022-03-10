@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: T1tools.pdf
 uid: 688e3638-3646-b0bf-7bf5-6546733a634c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
