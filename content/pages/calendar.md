@@ -5,6 +5,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 75315fd5-1f0f-93d2-b026-f4068f7f35bf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 All notes are Copyright © Hari Balakrishnan (1998-2001).
 

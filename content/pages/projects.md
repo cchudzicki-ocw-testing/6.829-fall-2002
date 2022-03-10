@@ -6,6 +6,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: 28a97481-6295-43ec-71e8-774748529f30
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 As you know, one of the major goals of this class is to understand how networking research is done. To this end, the term project is a major component of 6.829, since that's where you draw upon your knowledge and experience from the course readings and elsewhere to actually do research. This document is intended to ease the process of figuring out what to work on and writing a short proposal explaining what you want to work on. A separate document handed out in class describes some project suggestions we came up with.
 

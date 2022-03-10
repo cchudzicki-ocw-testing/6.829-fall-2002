@@ -5,6 +5,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 6f4ed290-8019-9652-bdbc-1d2a640e9ecf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 This section contains useful references and web sites related to the networking topics discussed in this course.
 
