@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Measurement and Modelling I: End-to-End Bandwidth Measurements'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/b3e86d40a6b7e54a5d89d213b98008bd_L11slides.pdf
+file: /courses/6-829-computer-networks-fall-2002/b3e86d40a6b7e54a5d89d213b98008bd_L11slides.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Measurement and Modelling I: End-to-End Bandwidth Measurements

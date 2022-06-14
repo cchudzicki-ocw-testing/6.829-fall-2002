@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: IPv6 Tutorial Notes
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/b86103fb045f7199f9ec3a73fe01fa93_T3IPv6.pdf
+file: /courses/6-829-computer-networks-fall-2002/b86103fb045f7199f9ec3a73fe01fa93_T3IPv6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+IPv6 Tutorial Notes

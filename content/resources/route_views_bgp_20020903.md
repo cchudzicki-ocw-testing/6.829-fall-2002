@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for problem set 1.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/e965df83a1a3fdeaa6b0f2349b866ac2_route_views_bgp_20020903.gz
+file: /courses/6-829-computer-networks-fall-2002/e965df83a1a3fdeaa6b0f2349b866ac2_route_views_bgp_20020903.gz
 file_type: application/x-gzip
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This is a supporting file for problem set 1.

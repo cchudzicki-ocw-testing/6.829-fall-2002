@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture: End-to-end Congestion Control'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/652354194b2231bc04488232729760cd_L8e2ecc.pdf
+file: /courses/6-829-computer-networks-fall-2002/652354194b2231bc04488232729760cd_L8e2ecc.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture: End-to-end Congestion Control

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Security Problems with the Internet Architecture
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/b6082aa6d5f2d006522067a4be4d36d8_L7Security.pdf
+file: /courses/6-829-computer-networks-fall-2002/b6082aa6d5f2d006522067a4be4d36d8_L7Security.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Security Problems with the Internet Architecture

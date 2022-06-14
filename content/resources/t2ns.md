@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: NS tutorial
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/44b429c8e1477cb2f322dc156b5a0f41_t2ns.pdf
+file: /courses/6-829-computer-networks-fall-2002/44b429c8e1477cb2f322dc156b5a0f41_t2ns.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+NS tutorial

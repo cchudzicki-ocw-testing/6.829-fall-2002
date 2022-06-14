@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 2
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/fd18c22dcf2ae51fab69a582b943772d_ps2.pdf
+file: /courses/6-829-computer-networks-fall-2002/fd18c22dcf2ae51fab69a582b943772d_ps2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Problem Set 2

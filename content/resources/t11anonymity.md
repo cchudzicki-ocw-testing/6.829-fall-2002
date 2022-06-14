@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Anonymity in the Internet
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/95a0695355dbafca7f014e364866af12_T11anonymity.pdf
+file: /courses/6-829-computer-networks-fall-2002/95a0695355dbafca7f014e364866af12_T11anonymity.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Anonymity in the Internet

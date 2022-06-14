@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 1: Packet Switching'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/35485a0ecba2d9038ceb9467c0517054_L1PacketSwitch.pdf
+file: /courses/6-829-computer-networks-fall-2002/35485a0ecba2d9038ceb9467c0517054_L1PacketSwitch.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture 1: Packet Switching

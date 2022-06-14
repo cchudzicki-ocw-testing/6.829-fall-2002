@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Traffic Self-Similarity
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/058eeb2740530b55d78af170e624e8b7_L15selfsim.pdf
+file: /courses/6-829-computer-networks-fall-2002/058eeb2740530b55d78af170e624e8b7_L15selfsim.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Traffic Self-Similarity

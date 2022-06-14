@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Networking Tools
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/688e36383646b0bf7bf56546733a634c_T1tools.pdf
+file: /courses/6-829-computer-networks-fall-2002/688e36383646b0bf7bf56546733a634c_T1tools.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Networking Tools

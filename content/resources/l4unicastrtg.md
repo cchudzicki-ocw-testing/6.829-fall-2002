@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Wide-Area Unicast Internet Routing
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/479e67f03ae682ec58867664687a926e_L4UnicastRtg.pdf
+file: /courses/6-829-computer-networks-fall-2002/479e67f03ae682ec58867664687a926e_L4UnicastRtg.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Wide-Area Unicast Internet Routing

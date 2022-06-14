@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 2: The Internetworking Problem'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/d81a62b0dc0edaeded4c1529e596d7f7_L2Internetworking.pdf
+file: /courses/6-829-computer-networks-fall-2002/d81a62b0dc0edaeded4c1529e596d7f7_L2Internetworking.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture 2: The Internetworking Problem

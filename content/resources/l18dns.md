@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Internet Domain Name System
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-829-computer-networks-fall-2002/6821932d61b7e835e3f2aa38fc7f957f_L18dns.pdf
+file: /courses/6-829-computer-networks-fall-2002/6821932d61b7e835e3f2aa38fc7f957f_L18dns.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+The Internet Domain Name System
