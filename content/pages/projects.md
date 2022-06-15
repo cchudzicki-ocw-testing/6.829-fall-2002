@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains project suggestions.
 draft: false
 learning_resource_types:
 - Projects

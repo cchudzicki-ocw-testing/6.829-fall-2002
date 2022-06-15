@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists useful networking texts and theses, and useful links.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
