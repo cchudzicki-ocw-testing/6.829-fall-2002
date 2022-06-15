@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains information on the ns Simulator.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

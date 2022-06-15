@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the problem set, useful files, FAQ and solution
+  for each assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
