@@ -5,6 +5,7 @@ file: /courses/6-829-computer-networks-fall-2002/8c199ba937fadf4b35aedf9b9c6f20f
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

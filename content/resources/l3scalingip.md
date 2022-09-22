@@ -5,6 +5,7 @@ file: /courses/6-829-computer-networks-fall-2002/c6d11b486a590e067ee67fb3b284fc0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
